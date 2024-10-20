@@ -18,8 +18,10 @@ Stay up-to-date with the latest updates in the Android ecosystem.
 
 <br><br>
 
-## 🌲 Custom ROMs 
+<h1 align="center"> 🌲 Custom ROMs </h1> 
 All about the custom firmware.
+
+<br>
 
 ### ⭐ Our ROM selection
 

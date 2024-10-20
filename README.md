@@ -58,9 +58,9 @@ All about the custom firmware.
 | ![](https://avatars.githubusercontent.com/u/114346404?s=200&v=4) | __LessAOSP__ | Android 15 | - | [GitHub](https://github.com/LessAOSP) | - | [Telegram](https://t.me/lessaosp) | 🗹 | 🗹 |
 | ![](https://avatars.githubusercontent.com/u/114230489?s=200&v=4) | __WitAqua__ | Android 15 | [Visit](https://witaqua.tokyo/) | [GitHub](https://github.com/WitAqua) | ? | ? | ? | ? |
 | ![](https://avatars.githubusercontent.com/u/174575971?s=200&v=4) | __AuroraDroid__ | Android 15 | - | [GitHub](https://github.com/AuroraDroid) | ? | ? | ? | ? |
-| ![](https://avatars.githubusercontent.com/u/60895608?s=200&v=4) | ⚠️ _hentaiOS_ | Android 15 | [Visit](https://hentaios.com/) | [GitHub](https://github.com/hentaiOS) | [Telegram](https://hentaiOS) | [Telegram](https://t.me/hentaiOSchat) | 🗹 | - |
+| ![](https://avatars.githubusercontent.com/u/60895608?s=200&v=4) | __hentaiOS__ | Android 15 | [Visit](https://hentaios.com/) | [GitHub](https://github.com/hentaiOS) | [Telegram](https://hentaiOS) | [Telegram](https://t.me/hentaiOSchat) | 🗹 | - |
 
-⚠️ - means suspicious ROM
+<!--⚠️ - means suspicious ROM-->
 
 <br>
 
@@ -92,9 +92,9 @@ All about the custom firmware.
 | ![](https://avatars.githubusercontent.com/u/114346404?s=200&v=4) | __LessAOSP__ | Android 15 | - | [GitHub](https://github.com/LessAOSP) | - | [Telegram](https://t.me/lessaosp) | 🗹 | 🗹 |
 | ![](https://avatars.githubusercontent.com/u/114230489?s=200&v=4) | __WitAqua__ | Android 15 | [Visit](https://witaqua.tokyo/) | [GitHub](https://github.com/WitAqua) | ? | ? | ? | ? |
 | ![](https://avatars.githubusercontent.com/u/174575971?s=200&v=4) | __AuroraDroid__ | Android 15 | - | [GitHub](https://github.com/AuroraDroid) | ? | ? | ? | ? |
-| ![](https://avatars.githubusercontent.com/u/60895608?s=200&v=4) | ⚠️ _hentaiOS_ | Android 15 | [Visit](https://hentaios.com/) | [GitHub](https://github.com/hentaiOS) | [Telegram](https://hentaiOS) | [Telegram](https://t.me/hentaiOSchat) | 🗹 | - |
+| ![](https://avatars.githubusercontent.com/u/60895608?s=200&v=4) | __hentaiOS__ | Android 15 | [Visit](https://hentaios.com/) | [GitHub](https://github.com/hentaiOS) | [Telegram](https://hentaiOS) | [Telegram](https://t.me/hentaiOSchat) | 🗹 | - |
 
-⚠️ - means suspicious ROM
+<!--⚠️ - means suspicious ROM-->
 
 <!-- WIP commented sections
 | Logo | LineageOS | Android 14 | Visit | github | Website/SourceForge |

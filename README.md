@@ -25,21 +25,21 @@ All about the custom firmware.
 
 ### ⭐ Our ROM selection
 
-| Logo | Name | Android version | Status | Website | Sources | Download | Support |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ![](resources/custom-roms/logo/aospa.png) | __Paranoid Android__ (AOSPA) | Android 15 | Active | [Visit](https://paranoidandroid.co) | [GitHub](https://github.com/AOSPA) | [Website](https://paranoidandroid.co/) | [Telegram](https://t.me/stayparanoid) |
-| ![](https://avatars.githubusercontent.com/u/121661057?s=200&v=4) | __Rising OS__ (ex. riceDroid) | Android 14 | Active | - | [GitHub](https://github.com/RisingTechOSS) | [SourceForge](https://sourceforge.net/projects/risingos-official/files) | [Telegram](https://t.me/risingOSG) |
-| ![](https://avatars.githubusercontent.com/u/144055806?s=200&v=4) | __Project Matrixx__ | Android 14 | Active | [Visit](https://www.projectmatrixx.org) | [GitHub](https://github.com/ProjectMatrixx) | [Website](https://www.projectmatrixx.org/downloads) | [Telegram](https://t.me/matrixx_community) |
-| ![](https://avatars.githubusercontent.com/u/24304779?s=200&v=4) | __LineageOS__ | Android 14 (15) | Active | [Visit](https://www.lineageos.org/) | [GitHub](https://github.com/LineageOS) | [Website](https://download.lineageos.org/devices/) | [Discord](https://discord.gg/gD6DMtf) |
+| Logo | Name | Android version | Status | Website | Sources | Download | Support | GApps | Vanilla |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![](resources/custom-roms/logo/aospa.png) | __Paranoid Android__ (AOSPA) | Android 15 | Active | [Visit](https://paranoidandroid.co) | [GitHub](https://github.com/AOSPA) | [Website](https://paranoidandroid.co/) | [Telegram](https://t.me/stayparanoid) | - | 🗹 |
+| ![](https://avatars.githubusercontent.com/u/121661057?s=200&v=4) | __Rising OS__ (ex. riceDroid) | Android 14 | Active | - | [GitHub](https://github.com/RisingTechOSS) | [SourceForge](https://sourceforge.net/projects/risingos-official/files) | [Telegram](https://t.me/risingOSG) | 🗹 | 🗹 |
+| ![](https://avatars.githubusercontent.com/u/144055806?s=200&v=4) | __Project Matrixx__ | Android 14 | Active | [Visit](https://www.projectmatrixx.org) | [GitHub](https://github.com/ProjectMatrixx) | [Website](https://www.projectmatrixx.org/downloads) | [Telegram](https://t.me/matrixx_community) | 🗹 | 🗹 |
+| ![](https://avatars.githubusercontent.com/u/24304779?s=200&v=4) | __LineageOS__ | Android 14 (15) | Active | [Visit](https://www.lineageos.org/) | [GitHub](https://github.com/LineageOS) | [Website](https://download.lineageos.org/devices/) | [Discord](https://discord.gg/gD6DMtf) | - | 🗹 |
 
 <br>
 
 ### ⚡ Known active ROMs
 
-| Logo | Name | Android version | Status | Website | Sources | Download | Support |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ![](https://avatars.githubusercontent.com/u/128966441?s=200&v=4) | __AfterlifeOS__ | Android 14 | Active | [Visit](https://afterlifeos.com/) | [GitHub](https://github.com/AfterlifeOS) | [Website](https://afterlifeos.com/device/) | [Telegram](https://t.me/AfterLife_Update) |
-| ![](https://avatars.githubusercontent.com/u/121151445?s=200&v=4) | __AlphaDroid__ | Android 14 | Active | - | [GitHub](https://github.com/AlphaDroid-Project) | [Telegram](https://t.me/alphadroid_releases) | [Telegram](https://t.me/alphadroid_chat) |
+| Logo | Name | Android version | Status | Website | Sources | Download | Support | GApps | Vanilla |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![](https://avatars.githubusercontent.com/u/128966441?s=200&v=4) | __AfterlifeOS__ | Android 14 | Active | [Visit](https://afterlifeos.com/) | [GitHub](https://github.com/AfterlifeOS) | [Website](https://afterlifeos.com/device/) | [Telegram](https://t.me/AfterLife_Update) | 🗹 | 🗹 |
+| ![](https://avatars.githubusercontent.com/u/121151445?s=200&v=4) | __AlphaDroid__ | Android 14 | Active | - | [GitHub](https://github.com/AlphaDroid-Project) | [Telegram](https://t.me/alphadroid_releases) | [Telegram](https://t.me/alphadroid_chat) | 🗹 | 🗹 |
 
 <!-- WIP commented sections
 | Logo | LineageOS | Android 14 | Active | Visit | github | Website/SourceForge |
